@@ -1,0 +1,1 @@
+# This is a repository of IYPT 2026, focousing on magnetic-accelerator. #
